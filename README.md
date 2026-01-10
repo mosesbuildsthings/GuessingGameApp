@@ -32,5 +32,16 @@ This game is based on the logic of **Binary Search**:
 ## 📸 Screenshots
 *(Tip: Add a screenshot of your working game here!)*
 
+
+## 🏆 Hall of Fame (Leaderboard)
+
+| Rank | Player Name | Max Level | High Score |
+| :--- | :--- | :--- | :--- |
+| 1 | CodingHero2026 | Level 12 | 4,500 |
+| 2 | SuperCoder11 | Level 8 | 2,800 |
+| 3 | PythonMaster | Level 5 | 1,200 |
+
+*To get on the leaderboard, send me a screenshot of your game over screen!*
+
 ---
 Built with ❤️ by an 11-year-old developer using Python and Tkinter.
